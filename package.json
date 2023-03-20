@@ -10,8 +10,8 @@
     "sass": "^1.59.2"
   },
   "scripts": {
-    "dev": "parcel app.html",
-    "build": "parcel build app.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
